@@ -1,3 +1,6 @@
+This is a secure and scalable backend service built using Node.js and MYSQL. This service will take in quiestions provided by users and use an AI api to provide the answers. You can view the test results of all the apis in the uploaded result files.
+
+
 Steps to setup and test the project:
 
 Environment Variables:
