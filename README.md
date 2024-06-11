@@ -1,3 +1,5 @@
+Steps to setup and test the project:
+
 Environment Variables:
 1. Create a .env file in the root of your project and add the following details:
 
