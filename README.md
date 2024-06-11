@@ -53,5 +53,8 @@ curl -X GET \
   http://localhost:3002/api/question
 
 
+6. You can view the test results of all the apis in the uploaded result files.
+
+
 
 
